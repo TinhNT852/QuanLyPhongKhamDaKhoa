@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "876328531068",
+    "firebase_url": "https://qllphongkhamdakhoa-default-rtdb.firebaseio.com",
+    "project_id": "qllphongkhamdakhoa",
+    "storage_bucket": "qllphongkhamdakhoa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876328531068:android:e09609e13b1440a735c5f9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8B44iVO3rBKR7wvJQLYayBtdn-Lwi0kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876328531068:android:8e6d0c4ef59221cb35c5f9",
+        "android_client_info": {
+          "package_name": "com.example.qlphongkhamdakhoa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8B44iVO3rBKR7wvJQLYayBtdn-Lwi0kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876328531068:android:0122f0fe47a4e42035c5f9",
+        "android_client_info": {
+          "package_name": "com.example.quanlyphongkhamdakhoa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8B44iVO3rBKR7wvJQLYayBtdn-Lwi0kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
